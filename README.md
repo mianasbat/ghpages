@@ -7,7 +7,7 @@ SciKit-Surgery libraries implements a family of compact, orthogonal, libraries a
 
 ## Getting started:
 
-Wondering which library is suitable for my job and how to use it? Check out the list of included libraries, relevant [documentation](https://scikit-surgery.readthedocs.io/en/latest/) and [demo tutorials](https://scikit-surgery.readthedocs.io/en/latest/#tutorials).
+Wondering which library is suitable for your job and how to use it? Check out the list of included libraries, relevant [documentation](https://scikit-surgery.readthedocs.io/en/latest/) and [demo tutorials](https://scikit-surgery.readthedocs.io/en/latest/#tutorials).
 
 
 
