@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+
+## What is SciKit-Surgery libraries:
 
 SciKit-Surgery libraries implements a family of compact, orthogonal, libraries accompanied by robust testing, documentation, and quality control. SciKit-Surgery libraries can be rapidly assembled into testable clinical applications and subsequently translated to production software without the need for software reimplementation.
+
+## Getting started:
+Wondering which library is suitable for my job and how to use it? Check out the list of included libraries, relevant [documentation](https://scikit-surgery.readthedocs.io/en/latest/) and [demo tutorials](https://scikit-surgery.readthedocs.io/en/latest/#tutorials).
+
+
+
 
 <!--
 You can use the [editor on GitHub](https://github.com/mianasbat/ghpages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
