@@ -1,5 +1,5 @@
-title: Scikit Surgery
-description: scikit-surgery is a collection of packages for the development of Image Guided Surgery systems.
+title: SciKit-Surgery
+description: Compact libraries for surgical navigation
 show_downloads: true
 theme: jekyll-theme-cayman
 darkmode: true
