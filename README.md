@@ -29,11 +29,6 @@ Wondering which library is suitable for your job and how to use it? Check out th
 | [scikit-surgeryspeech](https://github.com/UCL/scikit-surgeryspeech)             | Speech/Wakeword detection                                                    |
 
 
-## Contributors
-
-
-## Stay in touch
-
 
 
 <!--
