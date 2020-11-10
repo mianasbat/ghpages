@@ -12,6 +12,26 @@ SciKit-Surgery libraries implements a family of compact, orthogonal, libraries a
 Wondering which library is suitable for your job and how to use it? Check out the list of included libraries, relevant [documentation](https://scikit-surgery.readthedocs.io/en/latest/) and [demo tutorials](https://scikit-surgery.readthedocs.io/en/latest/#tutorials).
 
 
+## Libraries
+
+* [scikit-surgerycore](https://github.com/UCL/scikit-surgerycore) - Algorithms/tools common to all scikit-surgery packages
+* [scikit-surgeryimage](https://github.com/UCL/scikit-surgeryimage) - Image processing algorithms using OpenCV
+* [scikit-surgeryvtk](https://github.com/UCL/scikit-surgeryvtk) - Implements VTK functionality for IGS applications
+* [scikit-surgeryutils](https://github.com/UCL/scikit-surgeryutils) - Example applications/utilities
+* [scikit-surgerycalibration](https://github.com/UCL/scikit-surgerycalibration) - Calibration algorithms (camera/pointer/ultrasound etc)
+* [scikit-surgerysurfacematch](https://github.com/UCL/scikit-surgerysurfacematch) - Stereo reconstruction and point cloud matching
+* [scikit-surgerytf](https://github.com/UCL/scikit-surgerytf) - IGS models implemented in TensorFlow
+* [scikit-surgerytorch](https://github.com/UCL/scikit-surgerytorch) - IGS models implemented in PyTorch
+* [scikit-surgerynditracker](https://github.com/UCL/scikit-surgerynditracker) - Interface for Northern Digital (NDI) trackers. Vicra, Spectra, Vega, Aurora.
+* [scikit-surgeryarucotracker](https://github.com/UCL/scikit-surgeryarucotracker) - Interface for OpenCV ARuCo.
+* [scikit-surgeryspeech](https://github.com/UCL/scikit-surgeryspeech) - Speech/Wakeword detection
+
+
+## Contributors
+
+
+## Stay in touch
+
 
 
 <!--
